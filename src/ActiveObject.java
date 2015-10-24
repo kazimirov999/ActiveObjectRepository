@@ -84,7 +84,8 @@ public class ActiveObject {
 		}
 		active.shutdown();
 		System.out.println("Test Git");
-		
+		System.out.println("Test of branch firstbranch")
+		System.out.println("Test of branch firstbranch two")
 		
 	}
 }
