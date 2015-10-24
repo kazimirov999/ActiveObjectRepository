@@ -83,6 +83,9 @@ public class ActiveObject {
 				}
 		}
 		active.shutdown();
+		System.out.println("Test Git");
+		
+		
 	}
 }
 
